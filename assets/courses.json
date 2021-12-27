@@ -1,0 +1,15 @@
+[
+  { "id": "ap-calc-ab", "name": "AP Calculus AB" },
+  { "id": "ap-calc-bc", "name": "AP Calculus BC" },
+  { "id": "ap-stat", "name": "AP Statistics" },
+  { "id": "ap-bio", "name": "AP Biology" },
+  { "id": "ap-chem", "name": "AP Chemistry" },
+  { "id": "ap1", "name": "AP Physics 1" },
+  { "id": "apc", "name": "AP Physics C" },
+  { "id": "apes", "name": "AP Environmental Science" },
+  { "id": "apush", "name": "AP US History" },
+  { "id": "ap-psych", "name": "AP Psychology" },
+  { "id": "ap-econ", "name": "AP Economics" },
+  { "id": "geography", "name": "AP Human Geography" },
+  { "id": "ap-lit", "name": "AP Literature" }
+]
